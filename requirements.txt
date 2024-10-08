@@ -1,0 +1,13 @@
+torch 
+torchvision 
+torchaudio
+transformers
+datasets 
+tiktoken 
+wandb 
+tqdm
+dm-haiku
+matplotlib
+jupyter
+objax
+scikit-learn
